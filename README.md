@@ -1,6 +1,8 @@
 Methods
 
 1. separateEvenAndOdd(int[] arr)
+
+   
 This method takes an array of integers and separates the even and odd numbers into two different arrays.
 
 Parameters:
