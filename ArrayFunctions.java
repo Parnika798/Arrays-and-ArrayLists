@@ -33,6 +33,7 @@ public class ArrayFunctions {
         }
         return minIndex;
     }
+    
 
     public ArrayList<Integer> arrayToArrayList(int[] array) {
         ArrayList<Integer> list = new ArrayList<>();
