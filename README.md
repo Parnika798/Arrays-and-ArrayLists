@@ -1,3 +1,10 @@
+This project demonstrates various operations on arrays and ArrayLists in Java. It includes functions for:
+
+Separating even and odd numbers into respective arrays.
+Finding two neighboring numbers with the smallest distance in an array.
+Converting between arrays and ArrayLists.
+
+
 Methods
 
 1. separateEvenAndOdd(int[] arr)
@@ -34,6 +41,7 @@ arr: an integer array to be converted into an ArrayList.
 
 Returns:
 An ArrayList containing the elements of the input array.
+
 
 
 4. convertArrayListToArray(ArrayList<Integer> list)
